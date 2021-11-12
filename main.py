@@ -1,1 +1,1 @@
-#!/usr/bin/env python3s
+#!/usr/bin/env python3
