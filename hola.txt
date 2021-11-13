@@ -1,4 +1,4 @@
 hola flakk eres un baboso
 puto
 estoy agregando una branch flakk gay
-
+Ya se como borrar las branch o cambiarles nombre, pa que no se me olvide "git branch -m <old_name> <new_name>"
